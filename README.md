@@ -16,5 +16,4 @@ This project is a demonstration of an eCommerce website built with React, HTML, 
 ## Contributing
  Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue.
 
-## License
- This project is licensed under the MIT License.
+
